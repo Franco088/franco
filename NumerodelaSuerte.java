@@ -6,7 +6,7 @@ public class NumerodelaSuerte {
 
 	public static void main(String[] args) {
 		
-
+//numero de la suerte
 		Scanner sc= new Scanner (System.in);//inicio escanner
 		System.out.println("año");//mostrar por pantalla
 		int a=sc.nextInt();//almaceno los datos de teclado
